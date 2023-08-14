@@ -5,4 +5,4 @@ Credit to the following artists for these resources
 * `hoverbot/` - [Azucena López on ArtStation](https://www.artstation.com/artwork/zA3B9m)
 * `shockbot/` - [Azucena López on ArtStation](https://www.artstation.com/artwork/zA3B9m)
 * `explosion/` - [Nordenfelt](http://www.nordenfelt-thegame.com/blog/2011/11/02/nordenfelt-dev-log-25/)
-* `zenith.png` - [Animdustry]([http://www.nordenfelt-thegame.com/blog/2011/11/02/nordenfelt-dev-log-25/](https://github.com/Anuken/animdustry)https://github.com/Anuken/animdustry)
+* `zenith.png` - [Animdustry](http://www.nordenfelt-thegame.com/blog/2011/11/02/nordenfelt-dev-log-25/](https://github.com/Anuken/animdustry)https://github.com/Anuken/animdustry)
